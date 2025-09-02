@@ -3,7 +3,7 @@ Hello class! This is where I will share files with you for the class, and where 
 
 - - - -
 
-### Assignment Submittals:
+## Assignment Submittals:
   - pdf format
   - less than 15mb
   - $${\color{red}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
@@ -13,7 +13,7 @@ Assignment# - FirstName_LastName - YYYY MM DD
   - Date in the file name to be formatted "yyyy mm dd" format (EX: 2025 09 22)
 
 - - - -
-### Grasshopper - Project curve to Mesh
+## Grasshopper - Project curve to Mesh
 ```diff
 A = Rhino.Geometry.Curve.ProjectToMesh(Curve, Mesh, Vector, Tolerance)
 ```
