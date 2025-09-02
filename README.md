@@ -13,6 +13,12 @@ Assignment# - FirstName_LastName - YYYY MM DD
   - Date in the file name to be formatted "yyyy mm dd" format (EX: 2025 09 22)
 
 - - - -
+# Grasshopper - Project curve to Mesh
+```diff
+A = Rhino.Geometry.Curve.ProjectToMesh(Curve, Mesh, Vector, Tolerance)
+```
+
+- - - -
 
 ## Additional Rsources
 This list is in no way exhaustive, but a short list of things I have found along the way of my own journey. I have a ton more to share and will add to the list as we go through the semester.
