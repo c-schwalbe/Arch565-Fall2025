@@ -32,16 +32,6 @@ This list is in no way exhaustive, but a short list of things I have found along
   - Unreal Engine - William Faucher - https://www.youtube.com/@WilliamFaucher
   - Twinmotion - JohnCreation38 - https://www.youtube.com/@johncreation38
 
-### Arch Viz
-  - CG Architect - https://www.cgarchitect.com/
-
-#### Arch Viz - Faviorite Studios
-  - Playtime - https://www.play-time.es
-  - mir - https://www.mir.no/work
-  - Judi Wang - https://jeudi.wang
-  - KVAN1 - https://kvant1.no
-  - Brick Visual - https://brickvisual.com/#homestart
-
 ### Learning
   - ATN - https://archi-tech.network/
   - Think Parametric - https://www.thinkparametric.com/
@@ -64,3 +54,13 @@ This list is in no way exhaustive, but a short list of things I have found along
   - Be Curious! - Paper and stick - https://www.youtube.com/watch?v=UXENKmAUL0E
   - Across the pond - https://www.youtube.com/watch?v=QWzN8BfAVfc
   - Inspiration - https://vimeo.com/7809605
+
+### Arch Viz
+  - CG Architect - https://www.cgarchitect.com/
+
+#### Arch Viz - Faviorite Studios
+  - Playtime - https://www.play-time.es
+  - mir - https://www.mir.no/work
+  - Judi Wang - https://jeudi.wang
+  - KVAN1 - https://kvant1.no
+  - Brick Visual - https://brickvisual.com/#homestart
