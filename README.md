@@ -13,7 +13,7 @@ Assignment# - FirstName_LastName - YYYY MM DD
   - Date in the file name to be formatted "yyyy mm dd" format (EX: 2025 09 22)
 
 - - - -
-# Grasshopper - Project curve to Mesh
+### Grasshopper - Project curve to Mesh
 ```diff
 A = Rhino.Geometry.Curve.ProjectToMesh(Curve, Mesh, Vector, Tolerance)
 ```
