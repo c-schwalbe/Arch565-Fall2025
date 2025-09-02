@@ -6,7 +6,7 @@ Hello class! This is where I will share files with you for the class, and where 
 ## Assignment Submittals:
   - pdf format
   - less than 15mb
-  - $${\color{blue}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
+  - $${\color{yellow}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
 ```diff
 Assignment# - FirstName_LastName - YYYY MM DD
 ```
