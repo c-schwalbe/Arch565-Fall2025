@@ -10,9 +10,10 @@ This list is in no way exhaustive, but a short list of things I have found along
   - The Vignelli Cannon - https://www.rit.edu/vignellicenter/sites/rit.edu.vignellicenter/files/documents/The%20Vignelli%20Canon.pdf
 
 ### Favorite Youtube Channels
+  - Architech Network - https://www.youtube.com/@architech.network
+  - Design Cool Things - Gediminas Kirdeikis - https://www.youtube.com/@DesignGoBrr
   - Unreal Engine - William Faucher - https://www.youtube.com/@WilliamFaucher
   - Twinmotion - JohnCreation38 - https://www.youtube.com/@johncreation38
-  - Design Cool Things - Gediminas Kirdeikis - https://www.youtube.com/@DesignGoBrr
 
 ### Arch Viz
   - CG Architect - https://www.cgarchitect.com/
