@@ -20,7 +20,7 @@ A = Rhino.Geometry.Curve.ProjectToMesh(Curve, Mesh, Vector, Tolerance)
 
 - - - -
 
-## Additional Rsources
+## Additional Resources
 This list is in no way exhaustive, but a short list of things I have found along the way of my own journey. I have a ton more to share and will add to the list as we go through the semester.
 
 ### 2D Graphics / Presentation
