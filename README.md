@@ -8,7 +8,7 @@ Hello class! This is where I will share files with you for the class, and where 
   - less than 15mb
   - $${\color{red}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
 ```diff
-Assignment # - FirstName LastName - YYYY MM DD
+Assignment# - FirstName_LastName - YYYY MM DD
 ```
   - Date in the file name to be formatted "yyyy mm dd" format (EX: 2025 09 22)
 
