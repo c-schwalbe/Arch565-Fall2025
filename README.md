@@ -43,7 +43,7 @@ This list is in no way exhaustive, but a short list of things I have found along
 ### Videos
   - Importance of Font - Helvetica - https://spacesymmetrystructure.wordpress.com/
   - Importance of Font! - Papyrus - https://www.youtube.com/watch?v=jVhlJNJopOQ
-  - Keep design siple, elegent and timeless - Vignelli - https://www.youtube.com/watch?v=N4Dz28mgHpo
+  - Keep design simple, elegent and timeless - Vignelli - https://www.youtube.com/watch?v=N4Dz28mgHpo
   - Be Curious! - Paper and stick - https://www.youtube.com/watch?v=UXENKmAUL0E
-  - Keep it weird - https://www.youtube.com/watch?v=QWzN8BfAVfc
+  - Across the pond - https://www.youtube.com/watch?v=QWzN8BfAVfc
   - Inspiration - https://vimeo.com/7809605
