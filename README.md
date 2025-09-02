@@ -3,6 +3,17 @@ Hello class! This is where I will share files with you for the class, and where 
 
 - - - -
 
+### Assignment Submittals:
+  - pdf format
+  - less than 15mb
+  - $${\color{red}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
+  - Date in the file name to be formatted "yyyy mm dd" format (EX: 2025 09 22)
+```diff
+Assignment # - FirstName LastName - YYYY MM DD
+```
+
+- - - -
+
 ## Additional Rsources
 This list is in no way exhaustive, but a short list of things I have found along the way of my own journey. I have a ton more to share and will add to the list as we go through the semester.
 
