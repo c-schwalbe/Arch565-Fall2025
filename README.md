@@ -8,7 +8,7 @@ Hello class! This is where I will share files with you for the class, and where 
   - less than 15mb
   - $${\color{yellow}FILE\space NAMES\space MUST\space BE\space IN\space THE\space FOLLOWING\space FORMAT:}$$
 ```diff
-Assignment# - FirstName_LastName - YYYY MM DD
+Arch 565 - Assignment# - FirstName_LastName - YYYY MM DD
 ```
 
 - - - -
